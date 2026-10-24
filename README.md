@@ -23,7 +23,7 @@ Composez votre premier morceau de musique électronique en trois étapes. Posez 
 <br>
 <img src="https://philharmoniedeparis.fr/sites/default/files/2021-12/grand-orchestre_0.jpg" alt="Illustration" width="300">
 <br>
-&rarr; <a href="https://philharmoniedeparis.fr/fr/tadaa/jeux/le-grand-orchestre">Accéder au site</a>
+&rarr; <a href="https://philharmoniedeparis.fr/themes/custom/pdp_theme/jeux/grand-orchestre/index.html">Accéder au site</a>
 <br>
 Ce jeux vient de Tadaa !, le magazine de la Philharmonie de Paris destiné aux 4-10 ans.
 Harpe, trompette, violon… Les musiciens de l'Orchestre de Paris présentent leur instrument en vidéo, expliquent son fonctionnement et font entendre ses sons. Une belle façon de découvrir l'orchestre, et peut-être de choisir l'instrument que l'on aimerait apprendre. Module réalisé par la Philharmonie de Paris en partenariat avec BayaM.
