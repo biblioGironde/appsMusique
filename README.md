@@ -9,6 +9,26 @@ Une sélection d'applications en ligne, réalisée par le Pôle Coopérations Nu
 Conçu avec le Centre Pompidou, « Dans l’intimité de Kandinsky » (Google Arts & Culture) explore la vie, l’œuvre et l’héritage du pionnier de l’abstraction. On y parcourt plus de 2 800 œuvres et photos classées par couleur, on zoome sur sa touche, on visite une galerie en réalité augmentée et on revit ses années au Bauhaus. Point fort : « Play a Kandinsky » transforme Jaune-Rouge-Bleu en musique, en écho à sa synesthésie. Quiz et ressources pédagogiques complètent l’ensemble.
 <br>
 
+## Mon premier studio électro
+<br>
+<img src="https://philharmoniedeparis.fr/sites/default/files/2022-12/stud_electro.jpg" alt="Illustration" width="300">
+<br>
+&rarr; <a href="https://philharmoniedeparis.fr/themes/custom/pdp_theme/jeux/studio-electro/index.html">Accéder au site</a>
+<br>
+Ce jeux vient de Tadaa !, le magazine de la Philharmonie de Paris destiné aux 4-10 ans.
+Composez votre premier morceau de musique électronique en trois étapes. Posez la base rythmique avec la boîte à rythmes (grosse caisse, caisse claire, charleston, claps), ajoutez des mélodies et des effets avec le séquenceur, puis improvisez au clavier en tapant un mot ou une phrase. Conçu d'après une installation de la Philharmonie des enfants, avec Xavier Deneux, Stefanos Athanassopoulos et Emmanuelle de Héricourt, en coproduction avec BayaM.
+<br>
+
+## Le grand orchestre
+<br>
+<img src="https://philharmoniedeparis.fr/sites/default/files/2021-12/grand-orchestre_0.jpg" alt="Illustration" width="300">
+<br>
+&rarr; <a href="https://philharmoniedeparis.fr/fr/tadaa/jeux/le-grand-orchestre">Accéder au site</a>
+<br>
+Ce jeux vient de Tadaa !, le magazine de la Philharmonie de Paris destiné aux 4-10 ans.
+Harpe, trompette, violon… Les musiciens de l'Orchestre de Paris présentent leur instrument en vidéo, expliquent son fonctionnement et font entendre ses sons. Une belle façon de découvrir l'orchestre, et peut-être de choisir l'instrument que l'on aimerait apprendre. Module réalisé par la Philharmonie de Paris en partenariat avec BayaM.
+<br>
+
 ## MusicMaker
 <br>
 <img src="https://lh3.googleusercontent.com/XljOX1ZW8nh0AU8WsuGGkWl_xLXBypZ6QOE5aebRtbD_bF7NWNANPeTkcHawnuH-OzRS-1WqDA7s5SeAA7Pm38gyFGRfYUo" alt="Illustration" width="300">
