@@ -29,15 +29,6 @@ Ce jeux vient de Tadaa !, le magazine de la Philharmonie de Paris destiné aux 4
 Harpe, trompette, violon… Les musiciens de l'Orchestre de Paris présentent leur instrument en vidéo, expliquent son fonctionnement et font entendre ses sons. Une belle façon de découvrir l'orchestre, et peut-être de choisir l'instrument que l'on aimerait apprendre. Module réalisé par la Philharmonie de Paris en partenariat avec BayaM.
 <br>
 
-## MusicMaker
-<br>
-<img src="https://lh3.googleusercontent.com/XljOX1ZW8nh0AU8WsuGGkWl_xLXBypZ6QOE5aebRtbD_bF7NWNANPeTkcHawnuH-OzRS-1WqDA7s5SeAA7Pm38gyFGRfYUo" alt="Illustration" width="300">
-<br>
-&rarr; <a href="https://musiclab.chromeexperiments.com/Song-Maker">Accéder au site</a>
-<br>
-Song Maker, la toute dernière expérience de Chrome Music Lab, permet à chacun de composer et de partager une chanson en toute simplicité. Elle a été conçue par Google Creative Lab, Yotam Mann et Use All Five à l’aide de la Web Audio API, de WebMIDI, de Tone.js et d’autres outils.
-<br>
-
 ## Scan Sequencer Javascript
 <br>
 <img src="https://lh3.googleusercontent.com/MkgSM9h1EcwAV890_f-_YtpTM-Ce7-2F6JKoFLMttMykDZ2-PyUs5mPPqaaS_qXWMQzJCZrPX4x_EIyTZNsBF9riB1kq3w" alt="Illustration" width="300">
